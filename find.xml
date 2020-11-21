@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'NotesApp'" />
-    <option name="defaultScopeName" value="Project 'NotesApp'" />
-    <option name="SEARCH_SCOPE" value="Project 'NotesApp'" />
+    <option name="customScope" value="Project 'tindeAppProject'" />
+    <option name="defaultScopeName" value="Project 'tindeAppProject'" />
+    <option name="SEARCH_SCOPE" value="Project 'tindeAppProject'" />
   </component>
 </application>
